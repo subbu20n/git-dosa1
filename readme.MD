@@ -8,6 +8,6 @@
 * Dosa Batter
 * Erra Karam 
 
-# Egg dosa 
-* Dosa Batter 
-* Egg and Karam 
+# Egg Dosa 
+* Dosa Batter
+* 2 Eggs, Karam, Oil 
