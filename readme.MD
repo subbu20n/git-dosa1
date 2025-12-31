@@ -6,6 +6,7 @@
 
 # Karam Dosa
 * Dosa batter  
+<<<<<<< HEAD
 * Erra karam 
 
 
@@ -16,3 +17,6 @@
 # Ghee Dosa 
 * Dosa Batter 
 * Friends  
+=======
+* Erra karam 
+>>>>>>> fc778c6 (Erra karam added)
