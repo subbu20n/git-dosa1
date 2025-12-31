@@ -5,6 +5,7 @@
 * Light oil     
 
 # Karam Dosa
+<<<<<<< HEAD
 * Dosa batter  
 <<<<<<< HEAD
 * Erra karam 
@@ -20,3 +21,6 @@
 =======
 * Erra karam 
 >>>>>>> fc778c6 (Erra karam added)
+=======
+* Dosa batter  
+>>>>>>> aa6db9d (karam-dosa added,dosa batter added)
