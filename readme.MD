@@ -8,6 +8,8 @@
 * Dosa batter  
 * Erra karam 
 
+
 # Egg Dosa
 * Dosa batter
-* 2 eggs,karam,oil
+* 1/2 eggs,karam,oil
+
